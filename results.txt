@@ -1,0 +1,2 @@
+{'roll': '101', 'name': 'Aman', 'maths': 80, 'physics': 70, 'chemistry': 90, 'total': 240, 'percentage': 80.0, 'result': 'Pass'}
+{'roll': '102', 'name': 'Riya', 'maths': 40, 'physics': 40, 'chemistry': 40, 'total': 120, 'percentage': 40.0, 'result': 'Pass'}
